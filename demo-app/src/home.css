@@ -1,0 +1,109 @@
+html {
+        height: 100%;
+        margin: 0;
+        padding:0;
+        background: linear-gradient(to bottom, #2a2a2a, #141414);
+
+    }
+
+    
+
+ 
+
+.Intro{
+    margin-bottom: 100px;
+    font-weight: bold;
+
+    margin-top: 20px;
+    text-shadow: 2px 1px 20px  white;
+}
+
+
+.Vr-Image {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    position: relative;
+    z-index: 10;
+}
+
+.Cards{
+    display: flex;
+    justify-content: center;
+
+    gap: 250px;
+}
+
+.Title-Card{
+    background-color: #2a2a2a;
+    padding: 25px;
+
+    width: 350px;
+    height: 150px;
+
+    border-radius: 10px;
+
+    box-shadow: 10px 10px 30px 5px black;
+
+}
+
+.Title-Card--left{
+    z-index: 1;
+    position: relative;
+
+    margin-top: -100px;
+}
+
+.Title-Card--right{
+
+    z-index: 1;
+    position: relative;
+
+    margin-top: -170px;
+}
+
+.Pop-Text{
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.More-Info{
+    margin-top: 200px;
+
+    text-shadow: 2px 1px 20px black;
+    font-weight: bold;
+}
+
+.Column-Container{
+    display: flex;
+    justify-content: center;
+
+    gap: 40px;
+}
+
+.About-Column{
+    background-color: #2a2a2a;
+    padding: 25px;
+
+    width: 350px;
+    height: 150px;
+
+    border-radius: 10px;
+}
+
+.About-Column:hover{
+    transform: scale(1.04);
+}
+
+.about-text{
+    background: linear-gradient(to bottom, rgb(30, 30, 30) ,rgb(56, 56, 56));
+    border-radius: 25px;
+    padding: 30px;
+
+
+    margin-top: 100px;
+
+
+    font-size: xx-large;
+    font-weight:bold;
+}
