@@ -32,6 +32,7 @@ html {
     justify-content: center;
 
     gap: 250px;
+
 }
 
 .Title-Card{
@@ -96,12 +97,13 @@ html {
 }
 
 .about-text{
-    background: linear-gradient(to bottom, rgb(30, 30, 30) ,rgb(56, 56, 56));
+    background: linear-gradient(to bottom, rgb(5, 5, 13), rgb(24, 24, 24));
+
     border-radius: 25px;
     padding: 30px;
 
 
-    margin-top: 100px;
+    margin-top: 400px;
 
 
     font-size: xx-large;
