@@ -1,13 +1,15 @@
-html {
-        height: 100%;
+html,body {
         margin: 0;
         padding:0;
-        background: linear-gradient(to bottom, #2a2a2a, #141414);
 
-    }
+}
 
     
-
+body {
+    min-height: 100vh;
+    background: linear-gradient(to bottom, #2a2a2a, #141414);
+    background-repeat: no-repeat;
+}
  
 
 .Intro{
@@ -69,7 +71,7 @@ html {
 }
 
 .More-Info{
-    margin-top: 200px;
+    margin-top: 300px;
 
     text-shadow: 2px 1px 20px black;
     font-weight: bold;
@@ -97,13 +99,14 @@ html {
 }
 
 .about-text{
-    background: linear-gradient(to bottom, rgb(5, 5, 13), rgb(24, 24, 24));
+
+    background: linear-gradient(to bottom, rgb(48, 48, 53), rgb(24, 24, 24));
 
     border-radius: 25px;
     padding: 30px;
 
 
-    margin-top: 400px;
+    margin-top:200px;
 
 
     font-size: xx-large;
