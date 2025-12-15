@@ -29,18 +29,19 @@ body {
 
     background-color: rgb(56, 56, 56);
     width: 100%;
-    height: 30px;
+    height: 40px;
 
     z-index: 100;
 }
 
 .brand-name {
     color: #c6c6c6;
-    font:bold;
+    font-weight:bold;
 }
 
 .brand-name:hover {
-    text-decoration:overline;
+    text-shadow: 1px 1px 10px  white;
+    text-decoration: underline;
 }
 
 .Intro{
@@ -131,9 +132,8 @@ body {
 
 .about-text{
 
-
-    background: linear-gradient(to bottom, rgb(48, 48, 53), rgb(24, 24, 24));
-    border-radius: 25px;
+    background-color: #141414;
+    text-shadow: 2px 1px 20px  rgb(118, 118, 118);
     padding: 30px;
 
     margin-top: 1px;
