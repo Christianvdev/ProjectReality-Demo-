@@ -24,7 +24,7 @@ function HomePage(){
                         <p className='Pop-Text'>Ultra thin Pancake Lenses</p>
                     </div>
 
-                    <div data-aos="fade-left" className='Title-Card Title-Card Title-Card--right'>
+                    <div data-aos="fade-left" className='Title-Card Title-Card--right'>
                         <p className='Pop-Text'>Carbon fiber construction</p>
                         <p className='Pop-Text'>13 hours of battery life</p>
                         <p className='Pop-Text'>Full degree IPD adjustment</p>

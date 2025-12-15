@@ -2,9 +2,13 @@ html {
         height: 100%;
         margin: 0;
         padding:0;
-        background: linear-gradient(to bottom, #2a2a2a, #141414);
+        
 
     }
+
+.Page {
+    background: linear-gradient(to bottom, #2a2a2a, #141414);
+}
 
     
 
@@ -97,13 +101,11 @@ html {
 }
 
 .about-text{
-    background: linear-gradient(to bottom, rgb(5, 5, 13), rgb(24, 24, 24));
-
     border-radius: 25px;
     padding: 30px;
 
 
-    margin-top: 400px;
+    margin-top: 1px;
 
 
     font-size: xx-large;
