@@ -1,18 +1,29 @@
-html {
-        height: 100%;
+html,body {
         margin: 0;
         padding:0;
+<<<<<<< HEAD
         
+=======
+>>>>>>> 47e239df581308bb5f9ad9843f909a6501ffc58f
 
-    }
+}
 
 .Page {
     background: linear-gradient(to bottom, #2a2a2a, #141414);
 }
 
     
+body {
+    min-height: 100vh;
+    background: linear-gradient(to bottom, #2a2a2a, #141414);
+    background-repeat: no-repeat;
+}
 
- 
+.nav-bar {
+    background-color: aliceblue;
+    width: 100%;
+    min-width: 100vw;
+}
 
 .Intro{
     margin-bottom: 100px;
@@ -73,7 +84,7 @@ html {
 }
 
 .More-Info{
-    margin-top: 200px;
+    margin-top: 300px;
 
     text-shadow: 2px 1px 20px black;
     font-weight: bold;
@@ -101,11 +112,21 @@ html {
 }
 
 .about-text{
+<<<<<<< HEAD
+=======
+
+    background: linear-gradient(to bottom, rgb(48, 48, 53), rgb(24, 24, 24));
+
+>>>>>>> 47e239df581308bb5f9ad9843f909a6501ffc58f
     border-radius: 25px;
     padding: 30px;
 
 
+<<<<<<< HEAD
     margin-top: 1px;
+=======
+    margin-top:200px;
+>>>>>>> 47e239df581308bb5f9ad9843f909a6501ffc58f
 
 
     font-size: xx-large;
