@@ -9,8 +9,11 @@ import 'aos/dist/aos.css';
 Aos.init();
 function HomePage(){
     return (
+        <>
+            <header className='nav-bar'>
+                <p className="brand-name"> Project reality</p>
+            </header>
             <div className='Page'>
-                <header className='nav-bar'>up here</header>
                 <header className='Intro'> The future of reality as you know it</header>
                 <h1 data-aos="fade-up">Meet Project Reality</h1>
 
@@ -57,6 +60,7 @@ function HomePage(){
 
                 </div>
             </div>
+            </>
             
     )
 
