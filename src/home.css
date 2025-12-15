@@ -1,10 +1,6 @@
 html,body {
         margin: 0;
         padding:0;
-<<<<<<< HEAD
-        
-=======
->>>>>>> 47e239df581308bb5f9ad9843f909a6501ffc58f
 
 }
 
@@ -112,21 +108,14 @@ body {
 }
 
 .about-text{
-<<<<<<< HEAD
-=======
+
 
     background: linear-gradient(to bottom, rgb(48, 48, 53), rgb(24, 24, 24));
-
->>>>>>> 47e239df581308bb5f9ad9843f909a6501ffc58f
     border-radius: 25px;
     padding: 30px;
 
-
-<<<<<<< HEAD
     margin-top: 1px;
-=======
     margin-top:200px;
->>>>>>> 47e239df581308bb5f9ad9843f909a6501ffc58f
 
 
     font-size: xx-large;
